@@ -1,0 +1,27 @@
+attribute,attribute_type,display_name,definition
+ave_temp_C,Temperature,Ave Temperature,The average of the maximum and minimum temperature in °C recorded for the day. Mean Temperature = Maximum + Minimum / 2
+cloud_atm_okta,Cloud,Cloud Amount,"The amount of cloud present in the sky, expressed in oktas of the sky cover. Okta is the function used in denoting cloud amount and is equal to 1/8 of the whole sky."
+days_with_lightning,Storms,Days with Lightining,A day with lightning is reported whenever lightning is observed
+days_with_thunderstorm,Storms,Days with Thunderstorm,A thunderstorm day is defined as an observational day during which thunder is recorded at the station.
+dew_point_C,Temperature,Dew Point Temperature,"The temperature in °C at a given pressure, to which the air must be cooled to become saturated. It is the temperature when atmospheric moisture begins to condense to liquid forming “dew” upon objects."
+dry_bulb_C,Temperature,Dry Bulb Temperature,It gives the air temperature in °C at the time of observation.
+max_temp_C,Temperature,Max Temperature,"The maximum temperature in °C recorded for the day, usually occurring in the early afternoon"
+mean_sea_lvl_pressure_mbs,Pressure,Mean Sea Level Pressure,The force exerted by the weight of the atmosphere on a unit area at mean sea level. It is also the atmospheric pressure at mean sea level measured in millibars.
+min_temp_C,Temperature,Min Temperature,"The minimum temperature in °C recorded for the day, usually occurring during early hours of the morning (before sunrise)."
+number_of_rainy_days,Rainfall,Number of Rainy Days,"The amount of precipitation (rain, hail, etc.) expressed in millimeters depth of the layer of the water which has fallen."
+rainful_mm,Rainfall,Rainfall Amount,"The amount of precipitation (rain, hail, etc.) expressed in millimeters depth of the layer of the water which has fallen."
+rel_hum_perc,Humidity,Relative Humidity,The ratio of the amount of water vapor actually in the air to the maximum amount the air can hold at that temperature
+type_1_max,Rainfall,,
+type_1_min,Rainfall,,
+type_2_max,Rainfall,,
+type_2_min,Rainfall,,
+type_3_max,Rainfall,,
+type_3_min,Rainfall,,
+type_4_max,Rainfall,,
+type_4_min,Rainfall,,
+typhoon_count_max,Storms,Max Typhoon Count,
+typhoon_count_min,Storms,Min Typhoon Count,
+vapor_press_mbs,Pressure,Vapor Pressure,"Denotes the partial pressure of water vapor in atmosphere in millibars (mbs). As the water evaporates, additional water vapor is introduced into space above and pressure increases slightly as the new vapor is added. The increasing pressure is due to an increase in the partial pressure of water vapor"
+wet_bulb_C,Temperature,Wet Bulb Temperature,It gives the temperature in °C that an air parcel would have if cooled adiabatically to saturation at constant pressure by evaporating water in it
+wind_dr_16pt,Wind,Prevaling Wind Direction,The prevailing wind direction expressed using the 16 compass points which is most frequently observed during a given period
+wind_spd_mps,Wind,Ave Prevailing Wind Speed,The average wind speed in meters per second is the arithmetic average of the observed wind speed.
